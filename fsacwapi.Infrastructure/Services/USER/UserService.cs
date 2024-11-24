@@ -3,10 +3,8 @@ using fsacwapi.Core.DTOs.UserDTO.Request;
 using fsacwapi.Core.Validations;
 using fsacwapi.Infrastructure.Data.Storage;
 using fsacwapi.Infrastructure.Repository.USER;
-using fsacwapi.Core.Exceptions.Get;
 using fsacwapi.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using FluentValidation;
 using fsacwapi.Core.Abstractions;
 using fsacwapi.Core.Errors;
 
